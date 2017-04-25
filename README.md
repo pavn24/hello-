@@ -1,2 +1,3 @@
 # hello-
-just a repositry
+Hello Lovish!!
+Pavn here..This is just a redundant repository.
